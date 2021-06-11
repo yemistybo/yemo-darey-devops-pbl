@@ -7,3 +7,7 @@ DAREY.IO MyProjects - This is a repository to display the results and screenshot
 
 
 ![php_installed](https://user-images.githubusercontent.com/85507930/121713738-13904980-cad5-11eb-91b9-39b66820671d.PNG)
+
+![hello LAMP](https://user-images.githubusercontent.com/85507930/121713905-42a6bb00-cad5-11eb-90cf-f3086596b02b.PNG)
+
+![Http_80](https://user-images.githubusercontent.com/85507930/121713951-4c302300-cad5-11eb-8c63-398f67bc2e42.PNG)
