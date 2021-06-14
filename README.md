@@ -17,3 +17,8 @@ DAREY.IO MyProjects - This is a repository to display the results and screenshot
 ![VirtualHost](https://user-images.githubusercontent.com/85507930/121714234-8bf70a80-cad5-11eb-8ca2-477555e7fdaa.PNG)
 
 There are other screenshots but this should suffieciently confirm work done. If required happy to update with more files
+
+
+## Project 2 Completed 14/06/2021
+
+![nginx installed](https://user-images.githubusercontent.com/85507930/121936272-59e9e080-cd41-11eb-9123-e46d0a1adbeb.PNG)
