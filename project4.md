@@ -1,6 +1,6 @@
 ## Project 4 - Completed 13th July 2021
 
-_Fig 1_ - **Installing Mongodb
+_Fig 1_ - **Installing Mongodb**
 
 ![Mongodb installed_running](https://user-images.githubusercontent.com/85507930/125463259-ffd77dec-9aad-4b61-bd28-dd2d41fbc213.PNG)
 
