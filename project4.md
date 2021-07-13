@@ -9,7 +9,7 @@ _Fig 2_ - **Nodejs Installed**
 ![Installing Nodejs](https://user-images.githubusercontent.com/85507930/125463315-166c9cd5-8823-4a39-b94d-30b0a8b27ee3.PNG)
 
 
-_Fig 3_ - **Starting node server.js
+_Fig 3_ - **Starting node server.js**
 ![starting node server](https://user-images.githubusercontent.com/85507930/125463340-2ec4fe8d-648e-4fb3-a703-e320cd0edd2f.PNG)
 
 
