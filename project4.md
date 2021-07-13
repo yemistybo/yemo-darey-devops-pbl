@@ -1,6 +1,6 @@
 ## Project 4 - Completed 13th July 2021
 
-_Fig 1_ - ## Installing Mongodb
+_Fig 1_ - ### Installing Mongodb
 ![Mongodb installed_running](https://user-images.githubusercontent.com/85507930/125463259-ffd77dec-9aad-4b61-bd28-dd2d41fbc213.PNG)
 
 ![Installing Nodejs](https://user-images.githubusercontent.com/85507930/125463315-166c9cd5-8823-4a39-b94d-30b0a8b27ee3.PNG)
