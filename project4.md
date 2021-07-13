@@ -12,6 +12,6 @@ _Fig 2_ - **Nodejs Installed**
 _Fig 3_ - **Starting node server.js**
 ![starting node server](https://user-images.githubusercontent.com/85507930/125463340-2ec4fe8d-648e-4fb3-a703-e320cd0edd2f.PNG)
 
-
 _Fig 4_ - **Books entry on register**
+
 ![frontend We book Register](https://user-images.githubusercontent.com/85507930/125463356-4ab042d3-cfb8-40fb-b39e-24949abbfa05.PNG)
